@@ -1,3 +1,4 @@
+//ok
 (function() {
   var Game  = require('./lib/game');
 
